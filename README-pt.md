@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Uber clone" src=".github/logo.png" height="100px">
+  <img alt="uber_clone" src=".github/logo.png" height="100px">
 </h1>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/GabrielSouzaCampos/uber_clone?color=15c3d6">
@@ -13,24 +13,24 @@
   <!-- <img src="https://img.shields.io/badge/happy-NLW 2.0-8257E5?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="> -->
  <br>
   <a href="https://www.linkedin.com/in/gabrielsouzacampos/">
-       <img alt="LinkedIn link" src="https://img.shields.io/badge/-Gabriel Souza Campos-0077B5?style=flat&amp;logo=Linkedin&amp;logoColor=white" height="25px">
+      <img alt="LinkedIn link" src="https://img.shields.io/badge/-Gabriel Souza Campos-0077B5?style=flat&amp;logo=Linkedin&amp;logoColor=white" height="25px">
   </a> 
   <!-- <a href="https://insomnia.rest/run/?label=happy&amp;uri=https%3A%2F%2Fraw.githubusercontent.com%2GabrielSouzaCampos%2Fhappy%2Fmaster%2F.github%2FInsomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a> -->
 </p>
 <strong>
 <br>
 <p align="center">
-    <a href="README.md">English</a>
+    <a href="README.md">Inglês</a>
     ·
-    <a href="README-pt.md">Portuguese</a>
+    <a href="README-pt.md">Português</a>
 </p>
 
 <p align="center">
-  <a href="#bookmark-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#computer-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#wrench-tools">Tools</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#package-installation">Installation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <a href="#bookmark-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#wrench-ferramentas">Ferramentas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#package-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
 </p>
 </strong>
 <br>
@@ -39,13 +39,13 @@
     <img alt="Screens" src=".github/uber-screens.png" height="350px" />
 </p>
 
-## :bookmark: About
+## :bookmark: Sobre
 
-This project was developed for student purposes, being the clone of Uber Mobile UI.
+Este projeto foi desenvolvido para fins estudantis, sendo o clone do Uber Mobile UI.
 
 <br>
 
-## :computer: Technologies
+## :computer: Tecnologias
 
 -  **[Flutter](https://flutter.dev/)**
 -  **[Cloud Firestore](https://firebase.google.com/products/firestore)**
@@ -55,24 +55,24 @@ This project was developed for student purposes, being the clone of Uber Mobile 
 
 <br>
 
-## :wrench: Tools
+## :wrench: Ferramentas
 
 - **[VisualStudio Code](https://code.visualstudio.com/)**
 
 <br>
 
-## :package: Installation
+## :package: Instalação
 
-### :heavy_check_mark: **Prerequisites**
+### :heavy_check_mark: **Pré-requisitos**
 
-The following software must be installed:
+Os seguintes softwares devem estar instalados:
   
   - **[Android Studio](https://developer.android.com/studio)**
   - **[Git](https://git-scm.com/)**
 
 <br>
   
-### :arrow_down: **Cloning the repository**
+### :arrow_down: **Clonando o repositório**
 
 ```sh
   $ git clone https://github.com/GabrielSouzaCampos/uber_clone.git
@@ -80,7 +80,7 @@ The following software must be installed:
 
 <br>
 
-### :arrow_forward:	**Running the applications**
+### :arrow_forward:	**Rodando as aplicações**
 
 - :iphone: Mobile app
 
@@ -94,8 +94,8 @@ The following software must be installed:
 
 <br>
 
-## :memo: License
+## :memo: Licença
 
-This project is under the **MIT** license.
+Este projeto está sobre uma licença **MIT**.
 
 
